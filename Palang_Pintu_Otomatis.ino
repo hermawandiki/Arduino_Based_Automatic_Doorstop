@@ -1,3 +1,8 @@
+/*
+Nama projek = Palang Pintu Otomatis berbasis Arduino
+Dibuat oleh = Diki Hermawan - Bojonegoro, Indonesia
+*/
+
 #include <Ultrasonic.h>
 #include <LiquidCrystal_I2C.h>
 #include <Servo.h>
